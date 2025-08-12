@@ -1,6 +1,10 @@
-Smart Mix - Smart Recipe Generator of your leftovers.
+## Smart Mix - Smart Recipe Generator of your leftovers.
 
 ![Project Screenshot](./public/hero-section.png) 
+
+## 📱 Live Demo
+
+[Check out the Live Demo](https://smart-recipe-eight.vercel.app/)
 
 # React + Vite
 
